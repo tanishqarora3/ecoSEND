@@ -1,0 +1,58 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #710213;
+}
+
+li {
+  float: left;
+}
+
+li a{ 
+  display: block;
+  color: white;
+  font-size: larger;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+h3{
+  color:white;
+}
+li a:hover {
+  color: #111;
+  text-decoration: none;
+}
+li img{
+    margin: 14px 16px;
+}
+.container {
+  margin-top: 5%;
+  width: 50%;
+  padding-right: 5%;
+  padding-left: 5%;
+
+}
+#dmbutton{
+  margin-top: 5px;
+  margin-right: 20px;
+}
+#cont{
+  border: 2px solid white;
+  box-shadow: 1px 1px 0px #999,
+              2px 2px 0px #999,
+              3px 3px 0px #999,
+              4px 4px 0px #999,
+              5px 5px 0px #999,
+              6px 6px 0px #999;
+}
+
+#input1{
+  height: 150px;
+}
+
+.bdy{
+  background-color: black;
+  }
